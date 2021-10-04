@@ -7,7 +7,7 @@ Se utiliza la inyeccion de dependencias.
 Tambien se implementan princios SOLID.
 La base de datos que se usa es SQL Server 2012.
 
-Script base de datos
+Script base de datos::: ====>
 create database pruebaTecnica
 go
 use pruebaTecnica
