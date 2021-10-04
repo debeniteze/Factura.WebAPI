@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Factura.Abstractions\Factura.Abstractions.csproj" />
+    <ProjectReference Include="..\Factura.DataAccess\Factura.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

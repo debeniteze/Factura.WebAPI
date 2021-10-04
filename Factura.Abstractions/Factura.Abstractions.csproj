@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Factura.Abstractions</RootNamespace>
+    <AssemblyName>Factura.Abstractions</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Factura.Entities\Factura.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
